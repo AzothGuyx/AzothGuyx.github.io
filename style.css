@@ -45,6 +45,6 @@ ul li {
 
 #myContent{
     background-color: rgb(208, 7, 243);
-    margin: auto;
+    margin: 0 auto;
     width: 500px;
 }
